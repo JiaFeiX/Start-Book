@@ -5,5 +5,6 @@
 * [第二章：我们这个时代](ch-2-0.md)
    * [世界趋势](article2.md)
    * [中国趋势](CH-2/02.md)
+       * [Article](ch-2article.md)
 * [第三章：创业方法论](CH-1/ch.md)
 
